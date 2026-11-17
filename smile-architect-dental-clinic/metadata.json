@@ -1,0 +1,8 @@
+{
+  "name": "Smile Architect Dental Clinic",
+  "description": "Multi-speciality dental clinic in Hebbal, Mysuru offering dental implants, pediatric dentistry, root canal treatment, orthodontics, and online appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
